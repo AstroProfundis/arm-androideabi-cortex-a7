@@ -57,7 +57,6 @@ Software development
 * Gdb: (gdb).                   The GNU debugger.
 * Ld: (ld).                     The GNU linker.
 * Stabs: (stabs).               The "stabs" debugging information format.
-* gccinstall: (gccinstall).     Installing the GNU Compiler Collection.
 * gccint: (gccint).             Internals of the GNU Compiler Collection.
 * gdbserver: (gdb) Server.      The GNU debugging server.
 * gprof: (gprof).               Profiling your program's execution
